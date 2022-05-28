@@ -1,0 +1,531 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    background: );
+    background-position: top top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav-link{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: rgb(3, 1, 1) !important;
+}
+
+.nav-left{
+    list-style: none;
+}
+
+.discover{
+    border-bottom: 2px solid rgb(8, 7, 7);
+}
+.nav-link:hover{
+    border-bottom: 2px solid rgb(7, 7, 7);
+    margin: 0;
+}
+.zero{
+    background: rgba(255, 0, 0, 0.384);
+    border-radius: 50%;
+    font-size: 10px;
+    font-weight: 500;
+    color: rgb(253, 251, 251);
+ 
+}
+
+acct{
+    color: white !important;
+text-decoration: none;
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif, sans-serif;
+font-size: 14px;
+font-weight: 500;
+}
+
+.search{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif, sans-serif;
+font-weight: 500;
+font-size: 14px;
+}
+
+.facination{
+    font-size: 75px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    line-height: 75px;
+    color: rgb(72, 79, 86);
+    letter-spacing: -8px;
+    margin-top: 70px ;
+}
+.facination-note{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    line-height: 30px;
+    color: rgb(72, 79, 86);
+    letter-spacing: px;
+    margin-left: 370px;
+    margin-top: 60px;
+}
+.big-img{
+    position: relative;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(./img/img-3.jpg);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    margin-top: 200px !important;
+}
+.red-box{
+    position: absolute;
+    top: -5rem;
+    left: 12rem;
+    background: rgb(232,49,49);
+    height: 45vh;
+    width: 35%;
+}
+
+.gender{
+    padding-top: 40px;
+font-size: 12px;
+font-family: 'Gill Sans', 'Gill Sans MT';
+font-weight: 400;
+color: rgb(255, 255, 255);
+margin-left: 40px;
+}
+
+.human{
+    letter-spacing: -4px;
+    font-size: 48px;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 30%;
+    font-weight: 700;
+}
+.merge{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.simple-note{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    line-height: 30px;
+    color: rgb(72, 79, 86);
+    letter-spacing: px;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+.simplicity{
+    font-size: 75px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:  rgb(72, 79, 86);
+    letter-spacing: -2px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.stamp{
+    position: absolute;
+    right: 6rem;
+    top: 3rem;
+}
+.simple-area{
+    position: relative;
+}
+
+.design{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.note{
+    width: 30%;
+}
+.adventure{
+    position: relative;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.note-sign{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 34px;
+    color: rgb(72, 79, 86);
+}
+.adv-bag{
+  position: absolute; 
+  right: 6rem;
+}
+.red-box1{
+    position: absolute;
+    top: 13rem;
+    left: -3rem;
+    background: rgb(232,49,49);
+    height: 60vh;
+    width: 50%;
+}
+
+.gender11{
+    padding-top: 30px;
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+}
+
+.design-text{
+    letter-spacing: -2px;
+    font-size: 48px;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 20%;
+    font-weight: 700;
+}
+.cover{
+    position: static;
+}
+.manifesto{
+    margin-top: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.mani-text{
+    font-size: 32px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    line-height: 44px;
+    color: rgb(72, 79, 86);
+    letter-spacing: px;
+}
+
+.mani{
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(72, 79, 86);
+}
+.redd-box{
+    width: 50%;
+    background: rgb(232,49,49);
+    height: 50vh;
+}
+.reddd-box{
+    background: rgb(255,69,69);
+    height: 50vh;
+    width: 35%;
+}
+.gray-box{
+    background:rgb(226,226,226);
+    height: 50vh;
+    width: 5%;
+}
+.bg-img1{
+    margin-bottom: 20%;
+}
+.box-div{
+    position: absolute;
+    right: 3rem;
+   bottom: -15rem;
+   display: flex;
+   flex-direction: row;
+   width:70% ;
+   
+}
+.bg-img1{
+    position: relative;
+}
+.redd-text {
+    font-size:16px;
+    font-family:sans-serif ;
+    font-weight:500 ;
+    color: rgb(255, 255, 255);
+    line-height: 27px;
+}
+.reddd-list {
+    font-size:28px;
+    font-family:sans-serif ;
+    font-weight:700 ;
+    color: rgb(255, 255, 255);
+    line-height: 39px;
+}
+
+/* footer */
+.foot{
+    background: rgb(18,18,18);
+    }
+    
+    
+    .dot{
+        color: rgb(18,18,18);
+    }
+    
+    .get-it{
+        padding-top: 70px;
+    }
+    .foot-location{
+        color: rgb(242, 242, 242);
+        font-size: 14px;
+        font-weight: 400;
+        font-family: verdana, sans-serif;
+        line-height: 10px;
+    }
+    .foot-head{
+        color: rgb(255, 255, 255);
+        font-size: 22px;
+        font-weight: 700;
+        font-family: verdana, sans-serif;
+        line-height: 22px;
+        margin-bottom: 19px !important;
+    
+    }
+    
+    .foot-last{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 23px;
+        color: rgb(255, 255, 255) !important;
+        font-family:verdana, sans-serif;
+    }
+
+    @media (max-width: 480px) {
+        
+        .facination{
+            font-size: 55px;
+            font-weight: 700;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+            line-height: 55px;
+            color: rgb(72, 79, 86);
+            letter-spacing: 0px !important;
+            margin-top: 70px ;
+        }
+        
+        
+        .facination-note{
+            margin: 0 !important;
+            margin-top: 20px !important;
+        }
+
+        .big-img{
+            position: relative;
+            background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(./img/img-3.jpg);
+            height: 40vh;
+            background-position: center;
+            background-size: cover;
+            margin-top: 200px !important;
+        }
+        .red-box{
+            position: absolute;
+            top: -6rem;
+            left: 5rem;
+            background: rgb(232,49,49);
+            height: 22vh;
+            width: 55%;
+        }
+
+        .gender{
+            padding-top: 40px;
+        font-size: 12px;
+        font-family: 'Gill Sans', 'Gill Sans MT';
+        font-weight: 400;
+        color: rgb(255, 255, 255);
+        margin-left: 40px;
+        }
+        
+        .human{
+            letter-spacing: -4px;
+            font-size: 42px;
+            font-family: sans-serif;
+            color: rgb(255, 255, 255);
+            margin-top: 10%;
+            font-weight: 700;
+           
+        }
+        .merge{
+            margin-top: 10%;
+            margin-bottom: 10%;
+        }
+        
+        .simple-note{
+            font-size: 18px;
+            font-weight: 400;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+            line-height: 30px;
+            color: rgb(72, 79, 86);
+            letter-spacing: px;
+            margin-left: 300px;
+            margin-top: 60px;
+        }
+        
+        .simplicity{
+            font-size: 35px;
+            font-weight: 700;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            color:  rgb(72, 79, 86);
+            letter-spacing: -2px;
+            margin-right: 10%;
+            margin-left: 10%;
+            text-align: center !important;
+            
+        }
+        .stamp{
+            position: absolute;
+            right: 3rem;
+            top: 3rem;
+           
+        }
+        .simple-note{
+            margin: 0 !important;
+            margin-top: 20px !important;
+        }
+
+        .simple-area{
+            position: relative;
+        }
+        
+        .design{
+            display: flex;
+            flex-direction: column !important;
+          
+        }
+        
+        .note{
+            width: 100% !important;
+        }
+        .adventure{
+            position: relative;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        .note-sign{
+            margin-top: 100%;
+            font-size: 17px;
+           text-align: justify;
+            font-family: sans-serif;
+            font-weight: 400;
+            line-height: 34px;
+            color: rgb(72, 79, 86);
+        }
+        .adv-bag{
+          position: absolute; 
+          right: 0rem;
+        }
+        .red-box1{
+            position: absolute;
+            top: 0rem;
+            left: -0rem;
+            background: rgb(232,49,49);
+            height: 37.3vh;
+            width: 50%;
+        }
+        
+        .gender11{
+            padding-top: 30px;
+            font-size: 13px;
+            font-family: 'Gill Sans', 'Gill Sans MT';
+            font-weight: 400;
+            color: rgb(255, 255, 255);
+            margin-left: 5%;
+        }
+        
+        .design-text{
+            letter-spacing: -2px;
+            font-size: 30px;
+            font-family: sans-serif;
+            color: rgb(255, 255, 255);
+            margin-top: 20%;
+            font-weight: 700;
+        }
+        .cover{
+            position: static;
+        }
+        .manifesto{
+            margin: 0 !important;
+          
+        }
+
+
+        .mani-text{
+            font-size: 20px;
+            font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-weight: 300;
+            line-height: 40px;
+            color: rgb(72, 79, 86);
+            letter-spacing: px;
+        }
+        
+        .mani{
+            font-size: 12px;
+            font-weight: 400;
+            color: rgb(72, 79, 86);
+        }
+        .redd-box{
+            width: 70%;
+            background: rgb(232,49,49);
+            height: 35vh;
+        }
+        .reddd-box{
+            background: rgb(255,69,69);
+            height: 35vh;
+            width: 40%;
+        }
+        .gray-box{
+            background:rgb(226,226,226);
+            height: 35vh;
+            width: 5%;
+        }
+        .bg-img1{
+            margin-bottom: 80%;
+        }
+        .box-div{
+            position: absolute;
+            right: 0rem;
+           bottom: -25rem;
+           display: flex;
+           flex-direction: row;
+           width:100% ;
+           
+        }
+        .bg-img1{
+            position: relative;
+        }
+        .redd-text {
+            font-size:12px;
+            font-family:sans-serif ;
+            font-weight:500 ;
+            color: rgb(255, 255, 255);
+            line-height: 27px;
+            margin-left: 20px !important;
+            margin-right: 10px !important;
+        }
+        .reddd-list {
+            font-size:20px;
+            font-family:sans-serif ;
+            font-weight:700 ;
+            color: rgb(255, 255, 255);
+            line-height: 39px;
+            margin-left: 9px !important;
+        }
+
+
+
+
+
+
+
+
+
+
+
+    }
